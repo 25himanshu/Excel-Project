@@ -40,7 +40,7 @@ An interactive and visually appealing Excel dashboard designed to track and anal
 
 ## 📸 Preview
 
-![Sales Dashboard]()  
+![Sales Dashboard](https://github.com/25himanshu/Excel-Project/blob/main/Sales_Dashboard.png)  
 
 
 ## 💡 Purpose
@@ -61,7 +61,7 @@ This project demonstrates the power of Excel in building business dashboards and
 
 **Himanshu Khade**  
 Data Enthusiast | Excel & BI Learner  
-[LinkedIn Profile](https://www.linkedin.com/) *(add your actual link)*
+[LinkedIn Profile](www.linkedin.com/in/himanshu-khade-070209251) 
 
 ---
 
